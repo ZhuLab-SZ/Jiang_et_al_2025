@@ -1,1 +1,1 @@
-# Jiang_et_al_2025
+These are the codes used for analysis and figure generation in the manuscript "High-fat diet disrupts a septal control on feeding to promote obesity in male mice" (Jiang et al., 2025) from the Zhu lab.
